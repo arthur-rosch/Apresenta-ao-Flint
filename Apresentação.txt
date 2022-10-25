@@ -1,1 +1,7 @@
 Idade:17 Anos
+Rotina:
+	Acordar 6:00
+	Escolar 7:20
+	Voltar para Casa 13:00
+	Lazer/Estudar 14:00/19:00
+	Curso 19:30/23:00
