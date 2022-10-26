@@ -1,3 +1,4 @@
+Nome:Arthur
 Idade:17 Anos
 Rotina:
 	Acordar 6:00
